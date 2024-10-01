@@ -1,4 +1,4 @@
-# Vincent Dominic - Software and Web Developer
+# Vincent Dominic - Full-Stack Developer | Mobile App Developer
 
 ## 👋 Hello, I'm Vincent Dominic!
 
