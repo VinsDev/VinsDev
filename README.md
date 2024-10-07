@@ -1,8 +1,8 @@
-# Vincent Dominic - Full-Stack Developer | Mobile App Developer
+# Vincent Dominic - Fullstack Web Developer | Mobile App Developer
 
 ## 👋 Hello, I'm Vincent Dominic!
 
-A passionate Software and Web Developer with over 6 years of experience in building efficient, scalable, and user-friendly applications. My expertise spans a wide range of technologies, including JavaScript, React, Next.js, Django, and Flutter. I am dedicated to solving problems through innovative solutions and continuously improving my skills to stay ahead in the tech industry.
+A passionate Fullstack Web Developer & Mobile App Developer with over 6 years of experience in building efficient, scalable, and user-friendly applications. My expertise spans a wide range of technologies, including JavaScript, React, Next.js, Django, and Flutter. I am dedicated to solving problems through innovative solutions and continuously improving my skills to stay ahead in the tech industry.
 
 ---
 
@@ -17,6 +17,7 @@ A passionate Software and Web Developer with over 6 years of experience in build
 ### 🛠 Technologies & Tools
 - **Languages**: JavaScript, TypeScript, Python, Dart, HTML, CSS
 - **Front-End**: React, Next.js, Flutter, Tailwind CSS, Material UI
+- **Mobile Apps**: Flutter, Android Studio
 - **Back-End**: Node.js, Django, Express.js
 - **Databases**: MongoDB, MySQL, Firebase, PostgreSQL
 - **Version Control**: Git, GitHub
