@@ -8,7 +8,6 @@ A passionate Fullstack Web Developer & Mobile App Developer with over 6 years of
 
 ### 🌟 About Me
 - **🎓 Education**: First-Class Honors in Mechanical Engineering from Joseph Sarwuan Tarka University, Makurdi.
-- **💼 Current Role**: Full-stack Developer at Oyiche Cyber Tech Ventures.
 - **🔧 Skills**: Proficient in front-end and back-end technologies, including React, Next.js, Django, Node.js, and Flutter.
 - **🏆 Achievements**: Successfully delivered various projects, including mobile apps, freelancing platforms, and automated school management systems.
 
