@@ -25,7 +25,7 @@ A Full-Stack Developer with proven expertise in building scalable web and mobile
 ### 📫 Let's Connect!
 - **Email**: [vinsdev185@gmail.com](mailto:vinsdev185@gmail.com)
 - **LinkedIn**: [Vincent Dominic](https://www.linkedin.com/in/vincent-dominic-277644273)
-- **Portfolio**: [vincentdom.vercel.app](https://vincentdominic.vercel.app)
+- **Portfolio**: [vincentdominic.vercel.app](https://vincentdominic.vercel.app)
 
 ### 🎯 Current Focus
 Building efficient, scalable applications and exploring new technologies in AI and cloud computing. Always open to collaborating on innovative projects!
