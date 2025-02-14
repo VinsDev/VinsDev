@@ -27,8 +27,5 @@ A Full-Stack Developer with proven expertise in building scalable web and mobile
 - **LinkedIn**: [Vincent Dominic](https://www.linkedin.com/in/vincent-dominic-277644273)
 - **Portfolio**: [vincentdom.vercel.app](https://vincentdom.vercel.app)
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VinsDev&show_icons=true&theme=radical)
-
 ### 🎯 Current Focus
 Building efficient, scalable applications and exploring new technologies in AI and cloud computing. Always open to collaborating on innovative projects!
