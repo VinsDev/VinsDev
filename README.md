@@ -1,47 +1,34 @@
 # Vincent Dominic - Fullstack Web Developer | Mobile App Developer
 
 ## 👋 Hello, I'm Vincent Dominic!
-
-A passionate Fullstack Web Developer & Mobile App Developer with over 6 years of experience in building efficient, scalable, and user-friendly applications. My expertise spans a wide range of technologies, including JavaScript, React, Next.js, Django, and Flutter. I am dedicated to solving problems through innovative solutions and continuously improving my skills to stay ahead in the tech industry.
-
----
+A Full-Stack Developer with proven expertise in building scalable web and mobile solutions serving 100,000+ users. Specializing in React, Next.js, Node.js, Django, and Flutter, I transform complex business requirements into efficient technical solutions with measurable impact.
 
 ### 🌟 About Me
-- **🎓 Education**: First-Class Honors in Mechanical Engineering from Joseph Sarwuan Tarka University, Makurdi.
-- **🔧 Skills**: Proficient in front-end and back-end technologies, including React, Next.js, Django, Node.js, and Flutter.
-- **🏆 Achievements**: Successfully delivered various projects, including mobile apps, freelancing platforms, and automated school management systems.
-
----
+- **🎓 Education**: First-Class Honours in Mechanical Engineering from Joseph Sarwuan Tarka University, Makurdi
+- **💼 Current Role**: Full-Stack Developer at FeatureMind, building high-performance e-commerce solutions
+- **🔧 Core Focus**: Developing scalable applications with optimal performance and exceptional user experience
 
 ### 🛠 Technologies & Tools
-- **Languages**: JavaScript, TypeScript, Python, Dart, HTML, CSS
-- **Front-End**: React, Next.js, Flutter, Tailwind CSS, Material UI
-- **Mobile Apps**: Flutter, Android Studio
-- **Back-End**: Node.js, Django, Express.js
-- **Databases**: MongoDB, MySQL, Firebase, PostgreSQL
-- **Version Control**: Git, GitHub
-- **Hosting Platforms**: AWS, Vercel, Netlify, Heroku
+- **Languages**: JavaScript, TypeScript, Python, Dart
+- **Frontend**: React, Next.js, Tailwind CSS, Material UI
+- **Mobile**: Flutter, Android Studio
+- **Backend**: Node.js, Django, Express.js
+- **Databases**: MongoDB, MySQL, PostgreSQL, Firebase
+- **DevOps**: AWS, Vercel, Docker, CI/CD (GitLab, Jenkins)
 
----
+### 🚀 Featured Projects
+- **[Result Sphere](https://resultsphere.com.ng)**: School management system automating result computation for 5000+ students
+- **[FCS Devotional App](https://www.fcsnigeria.org/daily-devotionals/)**: Flutter-based devotional app with 1000+ daily active users
+- **[Movie List App](https://movielistproject.vercel.app)**: Next.js application with advanced filtering and search capabilities
+- **[Axis Global Enterprise](https://axisglobalenterprise.net)**: Logistics platform with job applications and admin dashboard
 
-### 🚀 Projects
-- **[Result Sphere](https://resultsphere.com.ng)**: A school management system that automates result computation, developed using Next.js and Node.js.
-- **[FCS Devotional App](https://www.fcsnigeria.org/daily-devotionals/)**: A volunteer project using Flutter and Node.js that reached over 5,000 downloads.
-- **[Movie List App](https://movielistproject.vercel.app)**: A React-based movie list application showcasing advanced state management and dynamic filtering.
-- **[Axis Global Enterprise](https://axisglobalenterprise.net)**: Developed a logistic company website with job application and admin dashboard features using Next.js and MongoDB.
-
----
-
-### 📫 Contact Me
+### 📫 Let's Connect!
 - **Email**: [vinsdev185@gmail.com](mailto:vinsdev185@gmail.com)
 - **LinkedIn**: [Vincent Dominic](https://www.linkedin.com/in/vincent-dominic-277644273)
-- **GitHub**: [VinsDev](https://github.com/VinsDev)
+- **Portfolio**: [vincentdom.vercel.app](https://vincentdom.vercel.app)
 
----
+### 📊 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=VinsDev&show_icons=true&theme=radical)
 
-### 📚 Hobbies
-When I’m not coding, I enjoy playing musical instruments, reading, and solving math and engineering problems.
-
----
-
-Let's connect and create something amazing together!
+### 🎯 Current Focus
+Building efficient, scalable applications and exploring new technologies in AI and cloud computing. Always open to collaborating on innovative projects!
