@@ -4,9 +4,9 @@
 A Full-Stack Developer with proven expertise in building scalable web and mobile solutions serving 100,000+ users. Specializing in React, Next.js, Node.js, Django, and Flutter, I transform complex business requirements into efficient technical solutions with measurable impact.
 
 ### About Me
-- ** Education**: First-Class Honours in Mechanical Engineering from Joseph Sarwuan Tarka University, Makurdi
-- ** Current Role**: Full-Stack Developer at FeatureMind, building high-performance e-commerce solutions
-- ** Core Focus**: Developing scalable applications with optimal performance and exceptional user experience
+- **Education**: First-Class Honours in Mechanical Engineering from Joseph Sarwuan Tarka University, Makurdi
+- **Current Role**: Full-Stack Developer at FeatureMind, building high-performance e-commerce solutions
+- **Core Focus**: Developing scalable applications with optimal performance and exceptional user experience
 
 ### Technologies & Tools
 - **Languages**: JavaScript, TypeScript, Python, Dart
