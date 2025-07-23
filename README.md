@@ -1,4 +1,4 @@
-# Vincent Dominic - Fullstack Web Developer | Mobile App Developer
+# Vincent Dominic - Fullstack Engineer
 
 ## Hello, I'm Vincent Dominic
 A Full-Stack Developer with proven expertise in building scalable web and mobile solutions serving 100,000+ users. Specializing in React, Next.js, Node.js, Django, and Flutter, I transform complex business requirements into efficient technical solutions with measurable impact.
