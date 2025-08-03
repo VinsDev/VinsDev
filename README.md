@@ -1,7 +1,7 @@
 # Vincent Dominic - Fullstack Engineer
 
 ## Hello, I'm Vincent Dominic
-A Full-Stack Developer with proven expertise in building scalable web and mobile solutions serving 100,000+ users. Specializing in React, Next.js, Node.js, Django, and Flutter, I transform complex business requirements into efficient technical solutions with measurable impact.
+I’m a Full-Stack Software Engineer who enjoys building practical, efficient digital solutions that make a real difference. I’ve worked on projects serving over 100K users, improving performance and user experience along the way. I love turning complex ideas into simple, scalable applications, whether it’s with React, Next.js, Flutter, or Node.js. My goal is always to create products that are fast, reliable, and easy to use.
 
 ### About Me
 - **Education**: First-Class Honours in Mechanical Engineering from Joseph Sarwuan Tarka University, Makurdi
