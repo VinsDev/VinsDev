@@ -5,7 +5,7 @@ I’m a Full-Stack Software Engineer who enjoys building practical, efficient di
 
 ### About Me
 - **Education**: First-Class Honours in Mechanical Engineering from Joseph Sarwuan Tarka University, Makurdi
-- **Current Role**: Full-Stack Developer at FeatureMind, building high-performance e-commerce solutions
+- **Current Role**:Open to opportunities in fullstack or mobile development
 - **Core Focus**: Developing scalable applications with optimal performance and exceptional user experience
 
 ### Technologies & Tools
@@ -17,10 +17,10 @@ I’m a Full-Stack Software Engineer who enjoys building practical, efficient di
 - **DevOps**: AWS, Vercel, Docker, CI/CD (GitLab, Jenkins)
 
 ### Featured Projects
+- **[Result Nova](https://resultnova.vercel.app/)**: School management system automating result computation for primary and secondary school students
 - **[Personal Portfolio Website](https://vincentdominic.vercel.app)**: My Personal Portfolio website built with Next.js featuring a sleek modern interface with smooth animation following best practices.
 - **[Movie List App](https://movielistproject.vercel.app)**: Next.js application with advanced filtering and search capabilities
 - **[Axis Global Enterprise](https://axisglobalenterprise.net)**: Logistics platform with job applications and admin dashboard
-- **[Result Sphere](https://resultsphere.com.ng)**: School management system automating result computation for 5000+ students
 - **[FCS Devotional App](https://www.fcsnigeria.org/daily-devotionals/)**: Flutter-based devotional app with 1000+ daily active users
 
 ### Let's Connect!
