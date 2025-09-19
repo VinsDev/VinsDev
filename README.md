@@ -14,7 +14,7 @@ I’m a Full-Stack Software Engineer who enjoys building practical, efficient di
 - **Mobile**: Flutter, Android Studio
 - **Backend**: Node.js, Django, Express.js
 - **Databases**: MongoDB, MySQL, PostgreSQL, Firebase
-- **DevOps**: AWS, Vercel, Docker, CI/CD (GitLab, Jenkins)
+- **DevOps**: AWS, Vercel, Docker, CI/CD (GitHub Actions, GitLab, Jenkins)
 
 ### Featured Projects
 - **[Result Nova](https://resultnova.vercel.app/)**: School management system automating result computation for primary and secondary school students
