@@ -45,7 +45,7 @@ I'm a Senior Mobile Engineer with 6+ years of experience building scalable Flutt
 ### Let's Connect!
 - **Email**: [vinsdev185@gmail.com](mailto:vinsdev185@gmail.com)
 - **LinkedIn**: [Vincent Dominic](https://www.linkedin.com/in/vincent-dominic-277644273)
-- **Portfolio**: [vincentdominic.vercel.app](https://vincentdominic.vercel.app)
+- **Portfolio**: [vincentdom.vercel.app](https://vincentdom.vercel.app)
 
 ### Current Focus
 Contributing to mobile architecture and engineering decisions at Uniccon Group while deepening my work with native SDK integrations, CI/CD, and AI-powered mobile features.
