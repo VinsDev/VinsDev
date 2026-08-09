@@ -38,11 +38,9 @@ I'm a Senior Mobile Engineer with 6+ years of experience building scalable Flutt
 - **[Trendupp](https://github.com/VinsDev)**: Creator-economy platform with multi-role dashboards, architected from the ground up using Clean Architecture, Riverpod, and automated CI/CD with OTA updates
 - **[OneHaven](https://github.com/VinsDev)**: AI-powered parental control and family safety platform with real-time location monitoring and MDM-based device controls
 - **[MarketSpace NG](https://github.com/VinsDev)**: Production marketplace app supporting 5,000+ active listings, optimized for performance at scale
-- **[Result Nova](https://resultnova.vercel.app/)**: School result-management system automating computation and report generation, used by 5+ schools
 - **[FCS Devotional App](https://www.fcsnigeria.org/daily-devotionals/)**: Flutter devotional app with 5,000+ users, offline-first architecture, and a quiz-game feature
 - **[Guardtrol](https://github.com/VinsDev)**: Guard management app with facial-verification patrol checks, geofencing, and full offline-first operation
-- **[Personal Portfolio Website](https://vincentdominic.vercel.app)**: Built with Next.js, featuring a modern interface and smooth animations
-- **[Axis Global Enterprise](https://axisglobalenterprise.net)**: Logistics platform with job applications and an admin dashboard
+- **[Personal Portfolio Website](https://vincentdom.vercel.app)**: Built with Next.js, featuring a modern interface and smooth animations
 
 ### Let's Connect!
 - **Email**: [vinsdev185@gmail.com](mailto:vinsdev185@gmail.com)
