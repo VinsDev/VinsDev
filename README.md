@@ -48,4 +48,4 @@ I'm a Senior Mobile Engineer with 6+ years of experience building scalable Flutt
 - **Portfolio**: [vincentdominic.vercel.app](https://vincentdominic.vercel.app)
 
 ### Current Focus
-Leading mobile architecture and engineering standards at Uniccon Group, mentoring engineers, and deepening my work with native SDK integrations, CI/CD, and AI-powered mobile features.
+Contributing to mobile architecture and engineering decisions at Uniccon Group while deepening my work with native SDK integrations, CI/CD, and AI-powered mobile features.
